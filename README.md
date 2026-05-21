@@ -1,5 +1,5 @@
 
-# Quantitative trading model
+# Quantitative trading model (DONT FORGET TO INSPECT FINAL.PDF)
 **DSA 210 — Introduction to Data Science · Sabancı University · Spring 2026**
 **Author: Kazimcan Sahin**
 
